@@ -1,0 +1,2 @@
+﻿2023-07-15 12:06:09.0420 INFO Successfully added numbers and result is:80
+2023-07-15 12:06:18.8079 INFO Successfully added numbers and result is:80
